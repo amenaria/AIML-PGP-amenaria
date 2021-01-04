@@ -1,3 +1,3 @@
 # pgpaiml-online-amenaria
-pgpaiml-online-amenaria created by GitHub Classroom
-Using this repository to store my projects and practice work during my PGP in AIML
+Using this repository to store my learning, practice and project work during my Post Graduate Program in AIML (Artificial Intelligence and Machine Learning) from the McCombs School of Business, University of Texas at Austin and Great Lakes Institute of Management. 
+ 
